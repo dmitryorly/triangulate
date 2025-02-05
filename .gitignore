@@ -1,0 +1,17 @@
+*.bak
+*.cache
+*.tmp
+.DS_Store
+.env*
+.fleet
+.idea
+.vscode
+dist
+Thumbs.db
+node_modules
+npm-debug.log
+tmp
+
+!.env*.example
+
+images
