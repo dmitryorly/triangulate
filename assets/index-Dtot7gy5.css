@@ -1,0 +1,1 @@
+*,*:before,*:after{box-sizing:inherit}html{box-sizing:border-box;height:100%}body{margin:0;height:100%}#container{height:100%;width:100%;background:linear-gradient(to bottom,#aeadb5 50%,#858597)}#canvas{height:100%;width:100%;display:block}
